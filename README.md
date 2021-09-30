@@ -13,5 +13,5 @@ This repository contains a collection of scripts, reference material and experim
 
 ### GitOps
 
-[civo provider for crossplane](https://github.com/crossplane-contrib/provider-civo)
-[install crossplane](https://crossplane.io/docs/v0.8/install-crossplane.html)
+- [civo provider for crossplane](https://github.com/crossplane-contrib/provider-civo)
+- [install crossplane](https://crossplane.io/docs/v0.8/install-crossplane.html)
