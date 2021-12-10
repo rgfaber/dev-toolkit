@@ -2,12 +2,6 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../../../../work/saab-ms/legacy/monoliths/cargosystem"
-		},
-		{
-			"path": "../../../../work/logatron.io/contexts/trabudis/trabudis-context"
 		}
 	],
 	"settings": {}
