@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "../../../logatron.io/docs/GS1"
 		}
 	],
 	"settings": {}
