@@ -7,5 +7,7 @@
 			"path": "../../../logatron.io/docs/GS1"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"makefile.extensionOutputFolder": "./.vscode"
+	}
 }
